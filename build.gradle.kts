@@ -6,7 +6,7 @@ plugins {
     `maven-publish`
 }
 
-group = "com.github.h0tk3y"
+group = "org.jetbrains.kotlin"
 version = "1.3.30-eap-125"
 
 repositories {

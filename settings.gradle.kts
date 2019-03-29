@@ -6,4 +6,6 @@ pluginManagement {
 
 rootProject.name = "kotlin-stdlib-multiplatform"
 
+include("usage-demo")
+
 enableFeaturePreview("GRADLE_METADATA")
